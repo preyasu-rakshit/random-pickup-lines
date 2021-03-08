@@ -13,7 +13,7 @@ let pickupLines = [
     "Hey, tie your shoes! I don’t want you falling for anyone else.",
     "I may not be a genie, but I can make your dreams come true.",
     "I’d say God Bless you, but it looks like he already did.",
-    "Was you father an alien? Because there’s nothing else like you on Earth!",
+    "Was your father an alien? Because there’s nothing else like you on Earth!",
     "Is there an airport nearby or is it my heart taking off?",
     "Do I know you? ‘Cause you look a lot like my next girlfriend",
     "I’m not a photographer, but I can picture me and you together.",
